@@ -1,7 +1,7 @@
 csharp_to_dart/
   meta.yaml
   start_main/
-              instruction.md
-              snippet.cs
-              solution.dart #optional
+    instruction.md
+    snippet.dart
+    solution.dart #optional
   
