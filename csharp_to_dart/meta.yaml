@@ -1,7 +1,6 @@
-csharp_to_dart/
-  meta.yaml
-  start_main/
-    instruction.md
-    snippet.dart
-    solution.dart #optional
-  
+name: From C# to Dart workshop
+type: dart
+steps:
+  - name: Start point
+    directory: start_main
+    has_solution: true
