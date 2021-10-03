@@ -3,4 +3,20 @@ type: dart
 steps:
   - name: Start point
     directory: start_main
+    has_solution: false
+  - name: Private VS Public
+    directory: private_vs_public
     has_solution: true
+  - name: Cascade
+    directory: cascade
+    has_solution: false
+  - name: Abstractions
+    directory: abstraction
+    has_solution: false
+  - name: Async/Await
+    directory: async
+    has_solution: false
+  - name: Threads
+    directory: isolates
+    has_solution: false
+  
