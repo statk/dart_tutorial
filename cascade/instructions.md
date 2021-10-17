@@ -1,8 +1,11 @@
-# La notation en cascade 
-est un sucre syntaxique dans `Dart` qui vous permet de faire une séquence d'opérations sur le même objet. Vous pouvez utiliser le `"double point"` pour appeler des fonctions sur des objets et accéder aux propriétés. Cet `"opérateur"` est simplement utilisé pour rendre votre code plus propre et concis. Cela vous évite souvent d'avoir à créer des variables temporaires. 
+# Opérations cascade 
+Des opérations en cascade
+est un sucre syntaxique en `Dart` qui permet de faire une séquence des opérations sur le même `objet`. Vous pouvez utiliser le `double point` pour appeler des fonctions sur des objets et accéder aux propriétés. Cet `opérateur` est simplement utilisé pour rendre votre code plus propre et concis. Cela vous évite souvent de créer des variables temporaires.
 
-# Les méthodes d'extension 
-vous permettent `"d'ajouter"` des méthodes à des types existants sans créer un nouveau type dérivé, recompiler ou modifier d'une autre manière le type d'origine. Les méthodes d'extension sont des méthodes statiques, mais elles sont appelées comme s'il s'agissait de méthodes d'instance sur le type étendu.  
+# Extensions
+Les méthodes d'extensions
+vous permettent `d'ajouter` des méthodes aux types existants sans créer un nouveau type, recompiler ou modifier d'une autre manière le type d'origine. Les méthodes d'extension sont des méthodes statiques, mais elles sont appelées comme s'il s'agissait des méthodes d'instance sur le type étendu.
+
 
 ```cs
 using System;

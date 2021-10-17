@@ -1,3 +1,2 @@
-En Dart tous comme en C# existe les operations asynchronne. Comme en C# les methodes asynchrone doivent avoir une attribut async en  le placement est un pet different.
-Future c'est un genre de Task qui represent la resulta d'une methode asynchronne en Dart. Comme en C# c'est possible de crée une `Future<T>`, qui aura la resultat d'execution.
-Contratio à C# en Dart c'est possible de crée une `Future<void>`, donc une methode `Future<void>` c'est un methode qui peut prende du temps à s'executer et son valeur est void. 
+# Les operations Asynchrones
+En `Dart` tous comme en `C#` existent les opérations asynchrones. Comme en `C#` les méthodes asynchrones doivent avoir un attribut `async` mais son placement est un peu différent. `Future` c'est un genre de `Task` qui représente le résultat d'une méthode asynchrone en `Dart`. Comme en `C#` il est possible de créer une `Future<T>`, qui aura le résultat d'exécution. 

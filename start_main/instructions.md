@@ -1,6 +1,6 @@
-Comme en c# point d'entre dans la programme Dart se trouve dans la methode main.
-En ravanche en dart on n'est pas obligé à crée une class dedier. 
-La fonction main() est une méthode prédéfinie dans Dart. Cette méthode sert de point d'entrée à l'application. Un script Dart a besoin de la méthode main() pour être exécuté. 
+# main()
+Comme en c# point d'entrée dans le programme `Dart` se trouve dans la méthode main. En revanche en `Dart` on n'est pas obligé à créer une class dediée. La fonction `main()`  est une méthode prédéfinie en `Dart`. Cette méthode sert de point d'entrée à l'application. Un script Dart a besoin de la méthode « main() » pour être exécuté.
+
 ```cs using System;
 using System.Collections.Generic;
 using System.IO;
